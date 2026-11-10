@@ -6,7 +6,7 @@ Hi, I'm Dorukhan. I'm a 4th-year Electrical Engineering student in the ITU-NJIT 
 
 ### Research
 
-- **Calibrating Deep AMC Classifiers with SNR-Adaptive Temperature Scaling**, with Asmar Hasanova (equal contribution). **Best Oral Paper Award, Third Prize** at IEEE ISAIA 2026, IEEE North Jersey Section. A per-SNR temperature lowers calibration error by 27.1% at low SNR, without retraining the classifier. [Code and data](https://doi.org/10.5281/zenodo.19747126)
+- **Calibrating Deep AMC Classifiers with SNR-Adaptive Temperature Scaling**, with Asmar Hasanova. **Best Oral Paper Award, Third Prize** at IEEE ISAIA 2026, IEEE North Jersey Section. A per-SNR temperature lowers calibration error by 27.1% at low SNR, without retraining the classifier. [Code and data](https://doi.org/10.5281/zenodo.19747126)
 - **Multilingual Sign-to-Speech Communication Device** (senior design team project). Recognizes ASL from a camera and speaks it in English, Turkish or Spanish, fully offline on a Jetson Orin Nano. I work on the language and speech side. [Repo](https://github.com/anxious956/Multilingual-Sign-to-Speech-Communication-Device)
 - **Multi-object tracking in microscopy** for automated sperm motility analysis (ongoing).
 
